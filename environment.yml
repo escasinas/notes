@@ -1,0 +1,13 @@
+name: kaggle 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - kaggle
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - notebook 
